@@ -107,7 +107,7 @@ pip install openai-whisper
 - **RAM**: 4GB minimum, 8GB+ recommended
 - **Storage**: 5GB free space for the application and models
 - **GPU**: Optional, but recommended for faster processing (NVIDIA GPU with CUDA support)
-
+<img src="https://i.ibb.co/zTRw5jNt/1.png" alt="1" border="0">
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
