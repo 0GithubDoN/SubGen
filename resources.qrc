@@ -1,0 +1,22 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/browse.png</file>
+        <file>icons/down_arrow.png</file>
+        <file>icons/generate.png</file>
+        <file>icons/srt.png</file>
+        <file>icons/vtt.png</file>
+        <file>icons/embed.png</file>
+        <file>icons/language.png</file>
+        <file>icons/translate.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/app_icon.png</file>
+        <file>icons/dark_mode.png</file>
+        <file>icons/light_mode.png</file>
+        <file>icons/theme.png</file>
+        <file>icons/cancel.png</file>
+        <file>icons/save.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/help.png</file>
+    </qresource>
+</RCC>
